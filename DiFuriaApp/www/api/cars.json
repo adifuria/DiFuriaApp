@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Bugatti Chiron Super Sport300+",
+    "description": "Vitesse maximale : 489,24 km/h",
+    "img": "img/cars/bugatti_chiron_super_sport_300.jpg"
+    
+  },
+  {
+    "name": "SSC Tuatara",
+    "description": "Vitesse maximale : 460,27 km/h",
+    "img": "img/cars/ssc_tuatara-supercar.jpg"
+    
+  },
+  {
+    "name": "McLaren Speedtail",
+    "description": "Vitesse maximale : 402,34 km/h",
+    "img": "img/cars/mclaren-speedtail.jpg"
+    
+  },
+  {
+    "name": "Koenigsegg Regera",
+    "description": "Vitesse maximale : 402,34 km/h",
+    "img": "img/cars/koenigsegg-regera-2021.jpg"
+    
+  },
+  {
+    "name": "Lamborghini Aventador SVJ",
+    "description": "Vitesse maximale : 349,23 km/h",
+    "img": "img/cars/lamborghini-aventador-svj.jpg"
+    
+  }
+]
